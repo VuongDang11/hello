@@ -1,0 +1,12 @@
+{
+  "name": "vdanggre/328/hello",
+  "authors": [
+    {
+      "name": "VuongDang",
+      "email": "Dang.Vuong@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
